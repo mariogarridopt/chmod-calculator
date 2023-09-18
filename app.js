@@ -1,7 +1,5 @@
 function drawChmod(octal) {
     const permissions = octal.toString().padStart(4, '0');
-    console.log("Drawing: " + permissions);
-
 
     const map = {
         'c-o-r': 4,
