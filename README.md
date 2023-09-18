@@ -6,6 +6,10 @@ Here is an example of the webpage:
 
 ![screenshot](screenshot.png)
 
-### Inspiration
+## Website
 
-This project was inspired by the website: www.chmod-calculator.com
+Online at: https://mariogarridopt.github.io/chmod-calculator/
+
+### Thanks
+
+This project was inspired by [chmod-calculator.com](https://chmod-calculator.com)

@@ -67,7 +67,6 @@ function symbolicToNumeric(chmodString) {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-    console.log("doc loaded");
     document.getElementById("c-oct").addEventListener("input", function(event) {
         let val = event.target.value;
         if (val.length == 3 || val.length == 4) {
@@ -97,7 +96,4 @@ document.addEventListener("DOMContentLoaded", function() {
             document.getElementById("c-sym").value = sym;
         })
     });
- });
- 
-
-
+});
