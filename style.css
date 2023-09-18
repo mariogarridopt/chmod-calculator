@@ -1,0 +1,75 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+    color: #333;
+}
+
+.container {
+    width: 600px;
+    margin: 10px auto;
+    padding: 2px 15px;
+    border-radius: 4px;
+}
+
+.title-text {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.caption-text {
+    color: #777;
+    font-size: 25px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.picker {
+    width: 400px;
+    margin: 14px 110px 20px 90px;
+    padding: 0px;
+    border: 0px;
+
+    font-size: 21px;
+}
+
+.picker th {
+    font-size: 33px;
+    font-weight: 700;
+}
+
+#info {
+    background-color: #eee;
+    margin: 10px auto;
+    padding: 2px 15px;
+    border-radius: 6px;
+}
+
+#info input {
+    width: 150px;
+    font-size: 20px;
+    padding: 4px 14px;
+    margin: 12px 4px;
+    text-align: center;
+}
+
+#info input:nth-child(2) {
+    width: 50px;
+}
+
+#info p {
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+}
+
+#info .small-title {
+    font-weight: 700;
+    margin: 20px 0px 5px 0px;
+}
